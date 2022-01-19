@@ -3,7 +3,7 @@
 // Website related settings
 const settings = {
   isSplash: true, // Change this to true if you want to use the splash screen.
-  useCustomCursor: true, // Change this to false if you want the good'ol cursor
+  useCustomCursor: false, // Change this to false if you want the good'ol cursor
   googleTrackingID: "UA-174238252-2",
 };
 
@@ -39,9 +39,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive User Interfaces and Backend for web applications",
-        "⚡ Building responsive website front end using ReactJS",
-        "⚡ Creating application backend in Node, Express, Flask, Django and Fast-API",
-        "⚡ Integration of third party services such as Firebase/ AWS / GCP",
+        "⚡ Building responsive website front end using Vue.Js, ReactJS and Angular",
+        "⚡ ASP.NET, WEB API, SQL Server",
       ],
       softwareSkills: [
         {
@@ -232,8 +231,8 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "Azure",
+          fontAwesomeClassname: "simple-icons:azure",
           style: {
             color: "#FF9900",
           },
@@ -366,13 +365,13 @@ const certifications = {
     //   color_code: "#47A048",
     // },
     {
-      title: "Contributor's Hack",
-      subtitle: "Hakin Codes",
-      logo_path: "HakinCodes.jfif",
+      title: "Docker",
+      subtitle: "Docker and .Net Core",
+      logo_path: "Docker-Logo-2015-2017.png",
       certificate_link:
-        "https://drive.google.com/file/d/1xvyy1M05lQN-s2VKw_Qvz6E7rPwrK2qm/view?usp=sharing",
-      alt_name: "Opensource Event",
-      color_code: "#fefd7b",
+        "https://drive.google.com/file/d/1aUWPGeVPEeKnR-Hxe6nzvRds0R7DK3z7/view",
+      alt_name: "Docker",
+      color_code: "#0db7ed",
     },
     // {
     //   title: "MLH Local Hack Day: Build",
